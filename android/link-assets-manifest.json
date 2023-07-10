@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/autumn.ttf",
+      "sha1": "a053e09e882be3b4ccef29460b4aa83d1014ecd7"
+    },
+    {
+      "path": "assets/fonts/creattion.ttf",
+      "sha1": "41caf8d85cada7efaf179e8e4504449ae2a95df8"
+    },
+    {
+      "path": "assets/fonts/montserrat.ttf",
+      "sha1": "de57aa03e4821fdbe6c34ec2c895e8b5c914e837"
+    },
+    {
+      "path": "assets/fonts/sacramento.ttf",
+      "sha1": "e3a869a44de0fe66d2a43c5101a9c721c3185553"
+    }
+  ]
+}
